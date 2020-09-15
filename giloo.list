@@ -1,5 +1,12 @@
 DOMAIN-SUFFIX, giloo.ist
 DOMAIN-SUFFIX, myfonts.net
-DOMAIN, js.stripe.com
+DOMAIN-SUFFIX,stripe.com
+DOMAIN, ipapi.io
+DOMAIN, cdn.qgr.ph
 DOMAIN, cdn.qgraph.io
+DOMAIN, api.quantumgraph.com
+DOMAIN, api.rollbar.com
+DOMAIN-SUFFIX, hotjar.com
 DOMAIN-SUFFIX, vimeocdn.com
+DOMAIN-SUFFIX, vimeo.com
+
