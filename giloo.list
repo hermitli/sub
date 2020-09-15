@@ -1,11 +1,13 @@
 DOMAIN-SUFFIX, giloo.ist
 DOMAIN-SUFFIX, myfonts.net
 DOMAIN-SUFFIX,stripe.com
-DOMAIN, ipapi.io
+DOMAIN-SUFFIX,stripe.network
+DOMAIN, ipapi.co
 DOMAIN, cdn.qgr.ph
 DOMAIN, cdn.qgraph.io
 DOMAIN, api.quantumgraph.com
 DOMAIN, api.rollbar.com
+DOMAIN, 5vod-adaptive.akamaized.net
 DOMAIN-SUFFIX, hotjar.com
 DOMAIN-SUFFIX, vimeocdn.com
 DOMAIN-SUFFIX, vimeo.com
