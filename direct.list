@@ -5,3 +5,6 @@ DOMAIN-KEYWORD,baidu
 DOMAIN-SUFFIX, linkit.dev
 DOMAIN-SUFFIX, tyunti.top
 DOMAIN-SUFFIX, globalacceleration.net
+IP-CIDR,140.238.22.21/32,no-resolve
+IP-CIDR,129.146.171.127/32,no-resolve
+IP-CIDR,129.146.85.48/32,no-resolve
