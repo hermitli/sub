@@ -7,7 +7,12 @@ DOMAIN, cdn.qgr.ph
 DOMAIN, cdn.qgraph.io
 DOMAIN, api.quantumgraph.com
 DOMAIN, api.rollbar.com
-DOMAIN, 5vod-adaptive.akamaized.net
+#DOMAIN, 5vod-adaptive.akamaized.net
+#DOMAIN, 31vod-adaptive.akamaized.net
+# appier是一家台湾做AI的公司
+DOMAIN-SUFFIX, appier.net
+DOMAIN-SUFFIX, akamaized.net
+DOMAIN-SUFFIX, akamaized.net
 DOMAIN-SUFFIX, hotjar.com
 DOMAIN-SUFFIX, vimeocdn.com
 DOMAIN-SUFFIX, vimeo.com
