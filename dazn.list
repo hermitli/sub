@@ -1,5 +1,5 @@
-- DOMAIN-SUFFIX,dazn.com
-- DOMAIN-SUFFIX,dazn-api.com
-- DOMAIN,d151l6v8er5bdm.cloudfront.net
-- DOMAIN,dcblivedazn.akamaized.net
-- DOMAIN-KEYWORD,voddazn
+DOMAIN-SUFFIX,dazn.com
+DOMAIN-SUFFIX,dazn-api.com
+DOMAIN,d151l6v8er5bdm.cloudfront.net
+DOMAIN,dcblivedazn.akamaized.net
+DOMAIN-KEYWORD,voddazn
