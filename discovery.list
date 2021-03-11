@@ -6,6 +6,7 @@ DOMAIN, www.discoveryplus.in
 DOMAIN, us1-prod-direct.discoveryplus.com
 DOMAIN, us1-prod.disco-api.com
 DOMAIN, www.discoveryplus.com
+DOMAIN, prod-realmservice.mercury.dnitv.com
 
 #this is the video stream path
 #DOMAIN, dplusindia-google.prod-vod.h264.io
