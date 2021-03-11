@@ -1,6 +1,10 @@
+#印度只需要以下两条
 DOMAIN, ap2-prod-direct.discoveryplus.in
-DOMAIN, us1-prod-direct.discoveryplus.com
 DOMAIN, www.discoveryplus.in
+
+#US
+DOMAIN, us1-prod-direct.discoveryplus.com
+DOMAIN, us1-prod.disco-api.com
 DOMAIN, www.discoveryplus.com
 
 #this is the video stream path
