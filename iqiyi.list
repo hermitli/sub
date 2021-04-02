@@ -6,3 +6,4 @@ DOMAIN-SUFFIX,qy.net
 IP-CIDR,101.227.0.0/16,no-resolve
 IP-CIDR,101.224.0.0/13,no-resolve
 IP-CIDR,119.176.0.0/12,no-resolve
+IP-CIDR,118.26.32.0/24,no-resolve
