@@ -1,7 +1,7 @@
 DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,iqiyipic.com
 DOMAIN-SUFFIX,iq.com
-DOMAIN,data.video.qiyi.com
+DOMAIN-SUFFIX,qiyi.com
 DOMAIN-SUFFIX,qy.net
 IP-CIDR,101.227.0.0/16,no-resolve
 IP-CIDR,101.224.0.0/13,no-resolve
