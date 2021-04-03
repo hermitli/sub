@@ -13,7 +13,5 @@ IP-CIDR,118.26.120.0/24,no-resolve
 IP-CIDR,223.119.62.225/28,no-resolve
 IP-CIDR,23.40.241.251/32,no-resolve
 IP-CIDR,23.40.242.10/32,no-resolve
-#以下三个为武汉家里电信
-IP-CIDR,116.211.220.0/24,no-resolve
-IP-CIDR,116.211.202.0/24,no-resolve
-IP-CIDR,116.211.198.0/24,no-resolve
+#以下为武汉家里电信
+IP-CIDR,116.211.0.0/16,no-resolve
