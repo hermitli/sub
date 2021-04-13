@@ -8,3 +8,6 @@ DOMAIN, us-central1-kktv-1322.cloudfunctions.net
 #myvideo
 DOMAIN-SUFFIX,myvideo.net.tw
 DOMAIN, twmmyvideo0914.blob.core.windows.net
+
+#friday
+DOMAIN-SUFFIX, friday.tw
