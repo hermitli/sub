@@ -4,3 +4,6 @@ DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,kkbox.com
 DOMAIN, us-central1-kktv-1322.cloudfunctions.net
+
+#myvideo
+DOMAIN-SUFFIX,myvideo.net.tw
