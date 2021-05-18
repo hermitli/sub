@@ -1,10 +1,10 @@
-#DOMAIN-KEYWORD,taobao
-#DOMAIN-KEYWORD,alipay
-#DOMAIN-SUFFIX,tmall.com
+DOMAIN-KEYWORD,taobao
+DOMAIN-KEYWORD,alipay
+DOMAIN-SUFFIX,tmall.com
 
 #手机支付宝
-#IP-CIDR,203.209.240.0/20,no-resolve
-#IP-CIDR,110.75.0.0/16,no-resolve
+IP-CIDR,203.209.240.0/20,no-resolve
+IP-CIDR,110.75.0.0/16,no-resolve
 
 DOMAIN-SUFFIX, caixin.com
 DOMAIN-SUFFIX, thepaper.cn
