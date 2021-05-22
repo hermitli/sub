@@ -1,0 +1,13 @@
+#KKTV
+DOMAIN,kktv-theater.kk.stream, TWStream
+DOMAIN-SUFFIX,kktv.com.tw, TWStream
+DOMAIN-SUFFIX,kktv.me, TWStream
+DOMAIN-SUFFIX,kkbox.com, TWStream
+DOMAIN, us-central1-kktv-1322.cloudfunctions.net, TWStream
+
+#myvideo
+DOMAIN-SUFFIX,myvideo.net.tw, TWStream
+DOMAIN, twmmyvideo0914.blob.core.windows.net, TWStream
+
+#friday
+DOMAIN-SUFFIX, friday.tw, TWStream
