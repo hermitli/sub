@@ -1,0 +1,17 @@
+DOMAIN-SUFFIX, giloo.ist, Giloo
+DOMAIN-SUFFIX, myfonts.net, Giloo
+DOMAIN-SUFFIX,stripe.com, Giloo
+DOMAIN-SUFFIX,stripe.network, Giloo
+DOMAIN, ipapi.co, Giloo
+DOMAIN, cdn.qgr.ph, Giloo
+DOMAIN, cdn.qgraph.io, Giloo
+DOMAIN, api.quantumgraph.com, Giloo
+DOMAIN, api.rollbar.com, Giloo
+DOMAIN, 5vod-adaptive.akamaized.net, Giloo
+DOMAIN, 31vod-adaptive.akamaized.net, Giloo
+# appier是一家台湾做AI的公司
+DOMAIN-SUFFIX, appier.net, Giloo
+#DOMAIN-SUFFIX, akamaized.net, Giloo
+DOMAIN-SUFFIX, hotjar.com, Giloo
+DOMAIN-SUFFIX, vimeocdn.com, Giloo
+DOMAIN-SUFFIX, vimeo.com, Giloo
