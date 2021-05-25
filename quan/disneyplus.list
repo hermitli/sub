@@ -1,5 +1,5 @@
 # > Disney Plus
-USER-AGENT,Disney*
+USER-AGENT,Disney*, DISNEY
 DOMAIN-SUFFIX,disneyplus.com, DISNEY
 DOMAIN-SUFFIX,disney-plus.net, DISNEY
 DOMAIN-SUFFIX,bamgrid.com, DISNEY
