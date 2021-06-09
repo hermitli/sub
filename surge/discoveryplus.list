@@ -1,1 +1,15 @@
 USER-AGENT,discovery+
+#印度只需要以下两条
+DOMAIN, ap2-prod-direct.discoveryplus.in
+DOMAIN, www.discoveryplus.in
+
+#US
+DOMAIN, us1-prod-direct.discoveryplus.com
+DOMAIN, us1-prod.disco-api.com
+DOMAIN, www.discoveryplus.com
+DOMAIN, prod-realmservice.mercury.dnitv.com
+DOMAIN, auth.discoveryplus.com
+
+#this is the video stream path
+#DOMAIN, dplusindia-google.prod-vod.h264.io
+#DOMAIN, x-default-stgec.uplynk.com
